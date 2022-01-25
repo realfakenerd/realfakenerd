@@ -32,4 +32,7 @@ Glad to see you here visitor, what can i do for you?
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
