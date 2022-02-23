@@ -10,4 +10,4 @@ Glad to see you here visitor, what can i do for you?
 
 ## 📈 My github stats:
 
-![Metrics](https://github.com/realfakenerd/realfakenerd/blob/main/github-metrics.svg)
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="500">
