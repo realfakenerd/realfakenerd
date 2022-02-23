@@ -28,6 +28,8 @@ jobs:
           config_octicon: yes
           config_timezone: America/Sao_Paulo
           config_twemoji: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -42,6 +44,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://supremepokedex.vercel.app/
           plugin_people: yes
           plugin_people_limit: 24
