@@ -47,7 +47,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://popkorn.vercel.app/
-          plugin_pagespeed_token: secrets.PAGESPEED_TOKEN
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
