@@ -1,6 +1,6 @@
 # Hi there i'm Lucas, but call me Luke or realfakenerd 👌
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=realfakenerd.realfakenerd&left_text=%20Page%20Visitors)
+ [![HitCount](https://hits.dwyl.com/realfakenerd/realfakenerd.svg?style=flat&show=unique)](http://hits.dwyl.com/realfakenerd/realfakenerd)
 
 <a href="https://app.daily.dev/realfakenerd">
   <img width="256" align="right" src="https://github.com/realfakenerd/realfakenerd/blob/main/devcard.svg" alt="Lucas A. Ouverney's Dev Card"/>
